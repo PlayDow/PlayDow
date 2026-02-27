@@ -8,11 +8,11 @@
 
 ### Expertise en Entreprise (Liebherr)
 *Architecte Solution & Développeur .NET (Apprentissage) :*
-**Plateforme E-Procurement :** Développement d'une application Full Stack (.NET / SQL) pour la gestion des équipements de protection individuelle (EPI) sur 3 usines.
-    *Technique :* Mise en place d'un Back-office RH avancé avec gestion dynamique des droits et CMS intégré.
-**Système d'Audit de Backups :** Conception d'une solution automatisée surveillant l'état des sauvegardes serveurs.
-    *Technique :* Service Windows en C# avec dashboard en temps réel et système d'alerte par mail.
- **Smart Launcher :** Création d'un wrapper intelligent détectant et lançant la version la plus récente des applications lourdes, permettant des mises à jour sans interruption utilisateur.
+* **Plateforme E-Procurement :** Développement d'une application Full Stack (.NET / SQL) pour la gestion des équipements de protection individuelle (EPI) sur 3 usines.
+   * *Technique :* Mise en place d'un Back-office RH avancé avec gestion dynamique des droits et CMS intégré.
+* **Système d'Audit de Backups :** Conception d'une solution automatisée surveillant l'état des sauvegardes serveurs.
+  * *Technique :* Service Windows en C# avec dashboard en temps réel et système d'alerte par mail.
+* **Smart Launcher :** Création d'un wrapper intelligent détectant et lançant la version la plus récente des applications lourdes, permettant des mises à jour sans interruption utilisateur.
 
 ---
 
