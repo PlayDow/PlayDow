@@ -1,56 +1,51 @@
 # Salut, moi c'est Dorian
 
-### 🚀 Développeur Full Stack | Expert .NET & Convergence IT/OT | Étudiant MSc Pro @ Epitech
+### 🚀 Développeur Full Stack | Développeur .NET & Convergence IT/OT | Étudiant MSc Pro @ Epitech
 
-Fort d'un parcours atypique de **15 ans dans la maintenance industrielle** (Marine Nationale, SNCF, Kronenbourg), j'ai opéré une reconversion passionnée vers le développement logiciel. Aujourd'hui, je combine ma rigueur du terrain avec une expertise technique moderne pour bâtir des solutions robustes à la frontière entre le monde logiciel (**IT**) et le monde industriel (**OT**).
-
----
-
-### 💼 Expérience Actuelle
-**Architecte Solution & Développeur .NET @ Liebherr (Alternance)**
-* **Modernisation :** Migration de parcs applicatifs vers .NET 8/10.
-* **Convergence IT/OT :** Création de bancs d'essais SI/Automates pour optimiser l'intégration machine.
-* **Solutions Métier :** Développement d'outils .NET/SQL utilisés par 800+ salariés (logistique, e-Procurement).
-* **Monitoring :** Conception de solutions d'alerting et de vérification de backups en C#.
+> **Note :** Mon activité GitHub semble calme car mes travaux récents sont hébergés sur les infrastructures privées d'**Epitech** et de **Liebherr**. Ce profil me sert de portfolio pour détailler mes réalisations techniques.
 
 ---
 
-### 🎓 Projets Majeurs (Epitech MSc)
-*La majorité de mon code récent est sur des dépôts privés, mais voici mes réalisations principales :*
+### 💼 Expertise en Entreprise (Liebherr)
+*En tant qu'Architecte Solution & Développeur .NET (Apprentissage) :*
 
-* **📦 Trinity :** Système de gestion d'entrepôt (WMS) et paiement mobile en micro-services.
-    * *Stack :* Golang, Svelte, MongoDB, Flutter.
-    * *Impact :* Architecture scalable avec 80% de couverture de tests.
-* **⏱️ Time Manager :** Solution complète de pointage et suivi RH.
-    * *Stack :* Elixir (Phoenix), Vue.js, MySQL.
-* **🏗️ The Conveyor :** Système de tri industriel RFID sur tapis roulant.
-    * *Stack :* C, C++, ESP32, Node-RED.
-* **♻️ Smart Trash Cans :** Solution de monitoring de remplissage (Arduino, C#, Grafana).
+* [cite_start]**Plateforme E-Procurement :** Développement d'une application Full Stack (.NET / SQL) pour la gestion des équipements de protection individuelle (EPI) sur 3 usines[cite: 21].
+    * [cite_start]*Technique :* Mise en place d'un Back-office RH avancé avec gestion dynamique des droits et CMS intégré[cite: 22, 23].
+* [cite_start]**Système d'Audit de Backups :** Conception d'une solution automatisée surveillant l'état des sauvegardes serveurs[cite: 25].
+    * [cite_start]*Technique :* Service Windows en C# avec dashboard en temps réel et système d'alerte par mail[cite: 26, 27, 28].
+* [cite_start]**Smart Launcher :** Création d'un wrapper intelligent détectant et lançant la version la plus récente des applications lourdes, permettant des mises à jour sans interruption utilisateur[cite: 30].
 
 ---
 
-### 🛠 Stack Technique
+### 🎓 Réalisations Majeures (Epitech MSc)
+*Projets complexes réalisés en autonomie ou en équipe réduite :*
 
-| Domaine | Technologies |
-| :--- | :--- |
-| **Backend** | **C# .NET (6/8/10)**, PHP (Symfony), Golang, Elixir, Node.js |
-| **Frontend** | Blazor, React, Svelte, Vue.js, Tailwind CSS, Kendo UI |
-| **IoT & OT** | MQTT (HiveMQ/EMQX), Arduino, Siemens S7, Grafana, Node-RED |
-| **Data & Ops** | SQL Server, MySQL, MongoDB, Docker, Azure DevOps (CI/CD) |
+* **📦 Trinity (Warehouse Management System) :**
+    * [cite_start]*Architecture :* Micro-services développés en **Golang** pour le backend et **Svelte** pour le web[cite: 52].
+    * [cite_start]*Mobile :* Application de checkout mobile réalisée avec **Flutter**[cite: 52].
+    * [cite_start]*Ops :* Pipeline CI/CD avec une couverture de tests de 80%[cite: 53].
+    * [cite_start]*Impact :* Réduction du temps de traitement des commandes de 40%[cite: 54].
+* **⏱️ Time Manager (Système RH) :**
+    * [cite_start]*Stack :* Backend en **Elixir (Phoenix)**, frontend en **Vue.js**, base **MySQL**[cite: 50].
+    * [cite_start]*Impact :* Élimination de 95% des erreurs de saisie manuelle du temps de travail.
+* **🏗️ The Conveyor (IoT & Bas Niveau) :**
+    * [cite_start]*Réalisation :* Tri par RFID sur tapis roulant haute performance utilisant des **M5 Stack (ESP32)**[cite: 61].
+    * [cite_start]*Langages :* Programmation en **C** et **C++**[cite: 61].
 
 ---
 
-### 📈 Mon ADN
-* **Profil Hybride :** Capacité à dialoguer avec les ingénieurs méthodes et les équipes IT.
-* **Rigueur Industrielle :** Diagnostic de pannes complexes et respect strict des protocoles de sécurité hérités de 15 ans en environnements contraints.
-* **Soft Skills :** Leadership, adaptabilité, résolution de problèmes complexes.
+### 🛠 Stack Technique & Compétences
+* [cite_start]**Backend :** C# .NET (6/8), PHP (Symfony), Golang, Elixir[cite: 10, 11, 50, 52].
+* [cite_start]**Frontend :** Blazor, Vue.js, Svelte, React, Telerik UI[cite: 12, 50, 52].
+* [cite_start]**IoT :** MQTT (HiveMQ, EMQX), PLCs Siemens S7 & Wago[cite: 13, 34, 35].
+* [cite_start]**Bases de données :** Microsoft SQL Server, MySQL, MongoDB[cite: 14, 50, 52].
 
 ---
 
+### 📈 Parcours & Soft Skills
+* [cite_start]**15 ans d'industrie :** Expertise acquise à la **SNCF**, dans l'**Armée** et chez **Kronenbourg**[cite: 41].
+* [cite_start]**Rigueur :** Application de standards de code élevés (Clean Code) et de protocoles de sécurité issus d'environnements critiques[cite: 16, 45].
+
+---
 ### 📫 Me contacter
-* **LinkedIn :** [linkedin.com/in/dorian-cotteret](https://www.linkedin.com/in/dorian-cotteret)
-* **Localisation :** Witternheim, Grand Est (France) 🇫🇷
-* **Statut :** Reconnu Travailleur Handicapé (RQTH)
-
----
-*“Mon GitHub personnel semble calme car mon activité quotidienne se concentre sur des solutions propriétaires et académiques privées.”*
+* [cite_start]**LinkedIn :** [linkedin.com/in/dorian-cotteret](https://www.linkedin.com/in/dorian-cotteret) [cite: 2]
