@@ -1,19 +1,18 @@
 # Salut, moi c'est Dorian
 
-### 🚀 Développeur Full Stack | Développeur .NET & Convergence IT/OT | Étudiant MSc Pro @ Epitech
+### Développeur Full Stack | Développeur .NET & Convergence IT/OT | Étudiant MSc Pro @ Epitech
 
 > **Note :** Mon activité GitHub semble calme car mes travaux récents sont hébergés sur les infrastructures privées d'**Epitech** et de **Liebherr**. Ce profil me sert de portfolio pour détailler mes réalisations techniques.
 
 ---
 
-### 💼 Expertise en Entreprise (Liebherr)
-*En tant qu'Architecte Solution & Développeur .NET (Apprentissage) :*
-
-* [cite_start]**Plateforme E-Procurement :** Développement d'une application Full Stack (.NET / SQL) pour la gestion des équipements de protection individuelle (EPI) sur 3 usines[cite: 21].
-    * [cite_start]*Technique :* Mise en place d'un Back-office RH avancé avec gestion dynamique des droits et CMS intégré[cite: 22, 23].
-* [cite_start]**Système d'Audit de Backups :** Conception d'une solution automatisée surveillant l'état des sauvegardes serveurs[cite: 25].
-    * [cite_start]*Technique :* Service Windows en C# avec dashboard en temps réel et système d'alerte par mail[cite: 26, 27, 28].
-* [cite_start]**Smart Launcher :** Création d'un wrapper intelligent détectant et lançant la version la plus récente des applications lourdes, permettant des mises à jour sans interruption utilisateur[cite: 30].
+### Expertise en Entreprise (Liebherr)
+*Architecte Solution & Développeur .NET (Apprentissage) :*
+**Plateforme E-Procurement :** Développement d'une application Full Stack (.NET / SQL) pour la gestion des équipements de protection individuelle (EPI) sur 3 usines.
+    *Technique :* Mise en place d'un Back-office RH avancé avec gestion dynamique des droits et CMS intégré.
+**Système d'Audit de Backups :** Conception d'une solution automatisée surveillant l'état des sauvegardes serveurs.
+    *Technique :* Service Windows en C# avec dashboard en temps réel et système d'alerte par mail.
+ **Smart Launcher :** Création d'un wrapper intelligent détectant et lançant la version la plus récente des applications lourdes, permettant des mises à jour sans interruption utilisateur.
 
 ---
 
