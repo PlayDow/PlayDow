@@ -6,45 +6,63 @@
 
 ---
 
-### Expertise en Entreprise (Liebherr)
-*Architecte Solution & Développeur .NET (Apprentissage) :*
-* **Plateforme E-Procurement :** Développement d'une application Full Stack (.NET / SQL) pour la gestion des équipements de protection individuelle (EPI) sur 3 usines.
-   * *Technique :* Mise en place d'un Back-office RH avancé avec gestion dynamique des droits et CMS intégré.
-* **Système d'Audit de Backups :** Conception d'une solution automatisée surveillant l'état des sauvegardes serveurs.
-  * *Technique :* Service Windows en C# avec dashboard en temps réel et système d'alerte par mail.
-* **Smart Launcher :** Création d'un wrapper intelligent détectant et lançant la version la plus récente des applications lourdes, permettant des mises à jour sans interruption utilisateur.
+### EXPÉRIENCES PROFESSIONNELLES
+
+**Architecte Solution & Développeur .NET** | Liebherr (Apprentissage)
+* **Plateforme E-Procurement :** Développement d'une application Full Stack (.NET, SQL, Kendo jQuery) dédiée à la gestion des vêtements de travail pour environ 800 salariés répartis sur trois sites industriels.
+    * Mise en place d'un back-office RH avancé incluant un CMS et une gestion dynamique des droits d'accès.
+    * Création de l'interface de commande (panier) et automatisation de l'envoi au fournisseur par e-mail.
+* **Système d'Audit de Backups :** Conception d'une solution surveillant de manière automatisée l'état des sauvegardes des machines de production sur les serveurs de l'usine. Cela garantie de disposer de sauvegardes fiables et à jour, permettant d'éviter plusieurs heures d'arrêt de production en cas de restauration d'une machine.
+    * Développement en C# et Kendo Jquery d'un tableau de bord de supervision couplé à un système d'alerting par e-mail.
+* **Smart Launcher :** Création d'un *wrapper* intelligent qui détecte et lance la version la plus récente des applications lourdes, garantissant des mises à jour transparentes et sans interruption pour les utilisateurs.
+* **R&D IIoT :** Conception d’un banc d’essai SI/Automates (Siemens, WAGO) visant à optimiser les futurs cahiers des charges et à réduire les coûts et délais d’intégration des nouvelles machines.
+
+**Développeur Full-Stack** | MRB Studio (Stage)
+* **Audit et Sécurité :** Reprise de code, débogage et sécurisation d’une application existante (Symfony et JavaScript).
+* **Authentification :** Création d’un système d’authentification à distance via la génération de tokens (PHP / SQL Server).
+* **Web :** Développement de deux sites WordPress intégrant des modules développés sur mesure.
+
+---
+### PROJETS ACADÉMIQUES | Epitech MSc
+*Projets réalisés en autonomie ou en équipe.*
+
+* **Trinity (Warehouse Management System) :**
+    * *Architecture :* Micro-services développés en Golang (Backend) et Svelte (Web).
+    * *Mobile :* Application de checkout mobile réalisée avec Flutter.
+    * *Ops :* Pipeline CI/CD avec une couverture de tests de 80%.
+* **Time Manager (Système RH) :**
+    * *Stack :* Backend en Elixir (Phoenix), frontend en Vue.js, base de données MySQL.
+* **The Conveyor (IoT & Bas Niveau) :**
+    * *Réalisation :* Système de tri par RFID sur tapis roulant haute performance.
+    * *Stack :* C/C++, M5Stack (ESP32), Node-RED.
+* **Smart Trash Cans (IoT & Monitoring) :**
+    * *Réalisation :* Système de monitoring de remplissage connecté et dockerisé.
+    * *Stack :* C#, Arduino, Grafana.
+* **Jack the Reaper (Stratégie & Management) :**
+    * *Réalisation :* Audit métier et élaboration d'une stratégie de transformation digitale (focus sur la conduite du changement).
+* **Geppetto (Réalité Virtuelle) :**
+    * *Réalisation :* Développement d'un jeu vidéo immersif en VR.
+    * *Stack :* Unity, Meta Quest.
 
 ---
 
-### 🎓 Réalisations Majeures (Epitech MSc)
-*Projets complexes réalisés en autonomie ou en équipe réduite :*
-
-* **📦 Trinity (Warehouse Management System) :**
-    * [cite_start]*Architecture :* Micro-services développés en **Golang** pour le backend et **Svelte** pour le web[cite: 52].
-    * [cite_start]*Mobile :* Application de checkout mobile réalisée avec **Flutter**[cite: 52].
-    * [cite_start]*Ops :* Pipeline CI/CD avec une couverture de tests de 80%[cite: 53].
-    * [cite_start]*Impact :* Réduction du temps de traitement des commandes de 40%[cite: 54].
-* **⏱️ Time Manager (Système RH) :**
-    * [cite_start]*Stack :* Backend en **Elixir (Phoenix)**, frontend en **Vue.js**, base **MySQL**[cite: 50].
-    * [cite_start]*Impact :* Élimination de 95% des erreurs de saisie manuelle du temps de travail.
-* **🏗️ The Conveyor (IoT & Bas Niveau) :**
-    * [cite_start]*Réalisation :* Tri par RFID sur tapis roulant haute performance utilisant des **M5 Stack (ESP32)**[cite: 61].
-    * [cite_start]*Langages :* Programmation en **C** et **C++**[cite: 61].
+### AUTRES PROJETS ACADÉMIQUES | CESI & CCI
+* **RE-Sources (CESI) :** Conception d'un réseau social dédié aux ressources éducatives (React, CodeIgniter, MySQL).
+* **Site E-commerce (CCI) :** Développement d'une boutique en ligne dynamique (PHP, JavaScript, HTML/CSS).
 
 ---
 
-### 🛠 Stack Technique & Compétences
-* [cite_start]**Backend :** C# .NET (6/8), PHP (Symfony), Golang, Elixir[cite: 10, 11, 50, 52].
-* [cite_start]**Frontend :** Blazor, Vue.js, Svelte, React, Telerik UI[cite: 12, 50, 52].
-* [cite_start]**IoT :** MQTT (HiveMQ, EMQX), PLCs Siemens S7 & Wago[cite: 13, 34, 35].
-* [cite_start]**Bases de données :** Microsoft SQL Server, MySQL, MongoDB[cite: 14, 50, 52].
+### STACK TECHNIQUE & COMPÉTENCES
+* **Backend :** C# .NET, PHP, Symfony, Golang.
+* **Frontend :** Blazor, Vue.js, Svelte, React, Telerik UI (Kendo jQuery).
+* **IoT :** MQTT (HiveMQ, EMQX), OPCUA.
+* **Bases de données :** Microsoft SQL Server, MySQL.
 
 ---
 
-### 📈 Parcours & Soft Skills
-* [cite_start]**15 ans d'industrie :** Expertise acquise à la **SNCF**, dans l'**Armée** et chez **Kronenbourg**[cite: 41].
-* [cite_start]**Rigueur :** Application de standards de code élevés (Clean Code) et de protocoles de sécurité issus d'environnements critiques[cite: 16, 45].
-
+### PARCOURS
+* **15 ans d'industrie :** Expérience technique en maintenance préventive et curative sur systèmes électromécaniques et environnements contraints au sein de l'armée et de grands groupes (SNCF, Kronenbourg).
 ---
-### 📫 Me contacter
-* [cite_start]**LinkedIn :** [linkedin.com/in/dorian-cotteret](https://www.linkedin.com/in/dorian-cotteret) [cite: 2]
+
+### CONTACT
+* **LinkedIn :** [linkedin.com/in/dorian-cotteret](https://www.linkedin.com/in/dorian-cotteret)
